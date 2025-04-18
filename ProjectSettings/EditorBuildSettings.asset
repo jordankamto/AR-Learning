@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ChoixMatiere.unity
+    guid: 120875c525904074e9d9c11964f6b80d
+  - enabled: 1
+    path: Assets/Scenes/InformatiqueQuantique.unity
+    guid: ab5a9396f83e92642ae831a7c6755d7e
+  - enabled: 1
+    path: Assets/Scenes/InformatiqueQuantique 2.unity
+    guid: aa42995a8489deb409753aa0f2833559
+  - enabled: 1
+    path: Assets/Scenes/InformatiqueQuantique 3.unity
+    guid: 25cbf76ad6769f44987353a6312defb8
+  - enabled: 1
+    path: Assets/Scenes/ChimieOrganique.unity
+    guid: d65a7f307bd494c4cbd53e658a57cad9
+  - enabled: 1
+    path: Assets/Scenes/ChimieOrganique 2.unity
+    guid: 4ea2683dc64a99d44a60d83f678c65d6
+  m_configObjects: {}
